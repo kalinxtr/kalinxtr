@@ -1,5 +1,5 @@
 -¿Quien soy?🤔
-Full stack Dev, comence a programar por que siempre me gusto la programacion desde que era joven, entonces aplique en Henry.
+Full stack Dev, comence a programar por que siempre me gusto la programacion desde que era chico, entonces aplique en Henry.
 Actualmente continuo mi aprendizaje sobre las tecnologias que adquiri conocimiento en Henry
 Honestamente me considero un programador muy constante y enfocado a la hora de codear.
 
