@@ -9,6 +9,9 @@ Mis habilidades como developer se enfocan en la persistencia, análisis, y conti
 -Mis conocimientos se enfocan en🧠
 JavaScript, NodeJS, React, Redux, PostgreSQL, CSS, Boostrap
 
+Mis intereses:
+Actualmente estoy en busqueda de una empresa que me pueda ofrecer ampliar mis conocimientos, y crecer como Developer en Web Design
+
 Contactame!📧
 Email: nehuen.cacace@gmail.com
 LinkedIn: https://www.linkedin.com/in/nehuen-cacace-38595a252/
